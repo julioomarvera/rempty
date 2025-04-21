@@ -1,6 +1,5 @@
 <?php 
- $inicio = "hello jessi"
- echo die();
+
 ?>
 
 <!DOCTYPE html>
